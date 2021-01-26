@@ -1,0 +1,1 @@
+This is the directory for the first use of EMACS and how the commands work
